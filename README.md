@@ -1,4 +1,4 @@
-# Javascript30 challenge by Jeff Ighalo
+# Javascript30 challenge by Jefferson Ighalo
 
 This repository will be holding all my code from the javascript30 challenge by <a href="http://www.github.com/wesbos">Wes Bos</a> over at <a href="http://www.javascript30.com">javascript30.com</a>
 
