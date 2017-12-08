@@ -15,3 +15,4 @@ I plan to follow through with the exercises, so i shall populate a table of cont
 The links below will link to my individual Medium articles. Check the corresponding folders in the repo for the code.
 
 - <a href="https://medium.com/@jefferie.halo/javascript30-com-learning-and-relearning-vanillajs-and-es6-6ef6efbd84fa">01-30</a>
+- <a href="https://medium.com/@jefferie.halo/javascript30-day-3-learning-how-to-manipulate-css-variables-with-js-8da2d6002e8d">03-30</a>
